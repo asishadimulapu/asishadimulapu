@@ -1,9 +1,9 @@
 # Asish Adimulapu — AI/ML Student • MERN & Java
 
 [![Website](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://portfolio-rho-eight-jpkh2bjua8.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge)](https://www.linkedin.com/in/asishadimulapu/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge)](https://www.linkedin.com/in/asish-adimulapu/)
 [![Twitter](https://img.shields.io/badge/X-Follow-blue?style=for-the-badge)](https://x.com/AsishPersonal)
-[![Email](https://img.shields.io/badge/Email-Say%20Hi-blue?style=for-the-badge)](mailto:hiring@getsethire.com)
+[![Email](https://img.shields.io/badge/Email-Say%20Hi-blue?style=for-the-badge)](mailto:asishadandy87@gmail.com)
 
 ---
 
@@ -15,12 +15,8 @@
 - ⚡ *Build with purpose, deploy with vision.*  
 
 ---
-
-## 🔭 Currently Working On
-- Final year project: **Blob Phishing Detection Using Machine Learning**  
-
 ## 🌱 Currently Learning
-- TypeScript, AWS, Advanced ML APIs  
+-  AWS, Advanced ML APIs  
 
 ## 🤝 Looking to Collaborate On
 - AI-powered full-stack projects  
@@ -54,15 +50,18 @@
 
 - **Deepfake Detection Using CNN**  
   Developed a robust deep learning model to detect deepfake videos, achieving high accuracy on public datasets. Utilized a Convolutional Neural Network (CNN) with TensorFlow and Keras to analyze video frames for manipulation artifacts. Engineered a data pipeline using OpenCV for frame extraction, face detection, and preprocessing. Fine-tuned the model through hyperparameter optimization and regularization to ensure high generalization and prevent overfitting.  
-  🔗 [View Project](https://github.com/asishadimulapu/deepfake-detection)
+  🔗 [View Project](https://github.com/asishadimulapu/Deepfake_Detection)
 
 - **Handwritten Digit Recognition**  
   CNN model to classify handwritten digits using TensorFlow & Keras, with a Tkinter-based UI for predictions.  
-  🔗 [View Project](https://github.com/asishadimulapu/mnist-cnn)
+  🔗 [View Project](https://github.com/asishadimulapu/HandWrittenDigitRecognition)
 
 - **MERN Gemini Chatbot**  
   Full-stack chatbot application using MERN stack and Gemini API, featuring JWT authentication and MongoDB-based chat history.  
-  🔗 [View Project](https://github.com/asishadimulapu/mern-gemini-chatbot)
+🔗 [View Project](https://github.com/asishadimulapu/ChatBotFrontend)
+🔗 [View Project](https://github.com/asishadimulapu/ChatBotGeminiBackend)
+
+
 
 ---
 
