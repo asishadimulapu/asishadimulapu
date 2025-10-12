@@ -8,7 +8,7 @@
 
 ## 👋 Hello, World!
 
-I'm a visionary **B.Tech AIML** student at Anurag University, passionate about architecting intelligent systems at the intersection of **Machine Learning**, **Artificial Intelligence**, and **Full-Stack Development**. I transform complex ideas into elegant, scalable solutions.
+I'm a visionary **B.Tech AIML** student at Anurag University, passionate about architecting intelligent systems at the intersection of **Deep Learning**, **Full-Stack Development**, and **Computer Vision**. I transform complex ideas into elegant, scalable solutions.
 
 <div align="center">
   
@@ -103,15 +103,15 @@ Machine learning masterpiece combining TensorFlow CNNs with intuitive Tkinter GU
 <table align="center">
 <tr>
 <td align="center"><strong>🚀 Cloud</strong></td>
-<td align="center"><strong>🧠 ML Models</strong></td>
+<td align="center"><strong>🧠 ML APIs</strong></td>
 <td align="center"><strong>⚡ Full-Stack AI</strong></td>
-<td align="center"><strong>🔗 Advanced APIs</strong></td>
+<td align="center"><strong>👁️ Computer Vision</strong></td>
 </tr>
 <tr>
 <td>AWS & Deployment</td>
-<td>Deep Learning Systems</td>
-<td>End-to-End Solutions</td>
-<td>API Integrations</td>
+<td>Advanced Integrations</td>
+<td>End-to-End Systems</td>
+<td>Image & Video Analysis</td>
 </tr>
 </table>
 
@@ -120,10 +120,10 @@ Machine learning masterpiece combining TensorFlow CNNs with intuitive Tkinter GU
 ## 💡 Ask Me About
 
 ```
-🎨 MERN Stack Architecture      🤖 Building ML Models
+🎨 MERN Stack Architecture      🤖 Building CNN Models
 🔗 Gemini API Integration       📊 Data Pipeline Design
 💾 MongoDB Optimization         🎯 ML Model Fine-tuning
-🌐 Full-Stack Deployment        🧠 Neural Networks & Deep Learning
+🌐 Full-Stack Deployment        👁️ Computer Vision Systems
 ```
 
 ---
@@ -132,8 +132,8 @@ Machine learning masterpiece combining TensorFlow CNNs with intuitive Tkinter GU
 
 I'm always excited to work on:
 - 🤖 AI-powered full-stack applications
-- 🧠 Machine learning & deep learning solutions  
-- 🔗 Intelligent backend systems & microservices
+- 👁️ Innovative computer vision solutions  
+- 🔗 Distributed systems & microservices
 - 🌐 Open-source contributions
 
 ---
