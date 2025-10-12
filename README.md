@@ -1,133 +1,175 @@
-# Asish Adimulapu — AI/ML Student • Full-Stack Developer
+# 🌌 Asish Adimulapu
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.asishadimulapu.tech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asish-adimulapu/)
-[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AsishPersonal)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asishadandy87@gmail.com)
+### AI/ML Architect • Full-Stack Innovator • Computer Vision Enthusiast
+
+```
+┌─────────────────────────────────────────┐
+│  BUILDING INTELLIGENT SYSTEMS           │
+│  WITH CUTTING-EDGE TECHNOLOGY           │
+│  AND CREATIVE VISION                    │
+└─────────────────────────────────────────┘
+```
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B00?style=flat-square&logo=About.me&logoColor=white&labelColor=1a1a2e)](https://www.asishadimulapu.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=1a1a2e)](https://www.linkedin.com/in/asish-adimulapu/)
+[![Twitter](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white&labelColor=1a1a2e)](https://x.com/AsishPersonal)
+[![Email](https://img.shields.io/badge/Email-FF6B00?style=flat-square&logo=gmail&logoColor=white&labelColor=1a1a2e)](mailto:asishadandy87@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=asishadimulapu&style=flat-square&color=FF6B00&labelColor=1a1a2e)
 
 </div>
 
 ---
 
-### 👋 Hello, World!
+## 💫 About Me
 
-I'm a final-year **B.Tech AIML** student at Anurag University with a passion for building intelligent, scalable systems. My expertise lies at the intersection of **AI/ML** and **full-stack web development**, where I leverage technologies like Python, TensorFlow, and the MERN stack to create impactful applications. I am driven to engineer solutions that are not only functional but also intuitive and efficient.
+I'm a visionary **B.Tech AIML** student at Anurag University, passionate about architecting intelligent systems that push the boundaries of what's possible. My expertise spans **Deep Learning**, **Full-Stack Web Development**, and **Computer Vision** — crafting solutions that are as elegant as they are powerful.
 
-*Build with purpose, deploy with vision.* ⚡
+> *Engineering tomorrow's AI today. Building systems that think, learn, and evolve.* ⚡
 
 ---
 
-### 🛠️ My Tech Stack
+## 🔮 Tech Arsenal
 
-<table>
-  <tr>
-    <td align="center" width="150">
-      <strong>Languages</strong>
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=java,python,javascript,c" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <strong>Frontend</strong>
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <strong>Backend</strong>
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,express" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <strong>Databases</strong>
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=mongodb" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <strong>AI / ML</strong>
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=tensorflow,keras,opencv" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <strong>Tools & Platforms</strong>
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=git,github,postman,vercel" />
-    </td>
-  </tr>
+<table align="center">
+<tr>
+<td>
+
+### Languages
+```
+🐍 Python  │  ☕ Java
+🔤 JavaScript  │  ⚙️ C
+```
+
+</td>
+<td>
+
+### Frontend
+```
+⚛️ React  │  🎨 Tailwind CSS
+🏗️ HTML5  │  💅 CSS3
+```
+
+</td>
+</tr>
+<tr>
+<td>
+
+### Backend & Databases
+```
+🟩 Node.js  │  🚀 Express.js
+🍃 MongoDB  │  📡 REST APIs
+```
+
+</td>
+<td>
+
+### AI/ML & CV
+```
+🧠 TensorFlow  │  🤖 Keras
+👁️ OpenCV  │  📊 NumPy
+```
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+### DevOps & Tools
+```
+🐙 Git/GitHub  │  📦 Vercel  │  🧪 Postman  │  ⚙️ Docker Ready
+```
+
+</td>
+</tr>
 </table>
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Elite Projects
 
-<details>
-<summary><strong>Deepfake Detection Using CNN</strong></summary>
-<br>
-A robust deep learning model to detect deepfake videos, achieving high accuracy on public datasets. The project involved creating a data pipeline with OpenCV for frame extraction and face detection, and building a fine-tuned Convolutional Neural Network (CNN) to identify manipulation artifacts.
-<br><br>
-🛠️ **Tech Stack:** Python, TensorFlow, Keras, OpenCV, NumPy
-<br>
-🔗 [View Project on GitHub](https://github.com/asishadimulapu/Deepfake_Detection)
-</details>
+<div align="center">
 
-<details>
-<summary><strong>MERN Gemini Chatbot</strong></summary>
-<br>
-A full-stack chatbot application built with the MERN stack and powered by the Gemini API. It features secure user authentication with JWT and persists chat history in MongoDB, providing a seamless and intelligent conversational experience.
-<br><br>
-🛠️ **Tech Stack:** MongoDB, Express.js, React.js, Node.js, Gemini API, JWT
-<br>
-🔗 [View Frontend Repo](https://github.com/asishadimulapu/ChatBotFrontend)
-<br>
-🔗 [View Backend Repo](https://github.com/asishadimulapu/ChatBotGeminiBackend)
-</details>
+### ⭐ Featured Innovations
 
-<details>
-<summary><strong>Handwritten Digit Recognition</strong></summary>
-<br>
-A classic machine learning project featuring a CNN model built with TensorFlow and Keras to classify digits from the MNIST dataset. The application includes a user-friendly GUI built with Tkinter that allows users to draw a digit and get real-time predictions.
-<br><br>
-🛠️ **Tech Stack:** Python, TensorFlow, Keras, Tkinter, PIL
-<br>
-🔗 [View Project on GitHub](https://github.com/asishadimulapu/HandWrittenDigitRecognition)
-</details>
+</div>
+
+### 🎯 **Deepfake Detection Using CNN**
+
+A sophisticated deep learning system that identifies manipulated videos with surgical precision. Engineered a complete pipeline featuring frame extraction, real-time face detection, and a fine-tuned CNN model achieving exceptional accuracy on benchmark datasets.
+
+**Stack:** `Python` `TensorFlow` `Keras` `OpenCV` `NumPy`  
+🔗 [Explore Repository](https://github.com/asishadimulapu/Deepfake_Detection) • **Impact:** High-accuracy fraud detection
 
 ---
 
-### 🌱 My Focus & Interests
+### 💬 **MERN Gemini Chatbot**
 
-* **Currently Learning:** Diving deeper into **AWS** for cloud deployment and exploring **Advanced ML APIs** for more sophisticated AI integrations.
-* **Looking to Collaborate On:** High-impact projects involving **AI-powered full-stack systems** or **innovative computer vision applications**.
-* **Ask Me About:** MERN stack architecture, integrating **Gemini API**, or building **CNNs** for image and video analysis.
+A sophisticated full-stack AI conversational platform seamlessly integrating the Google Gemini API. Features advanced JWT authentication, persistent MongoDB storage, and an intuitive React interface delivering a next-generation chat experience.
+
+**Stack:** `MERN` `Gemini API` `JWT` `MongoDB`  
+🔗 [Frontend](https://github.com/asishadimulapu/ChatBotFrontend) | [Backend](https://github.com/asishadimulapu/ChatBotGeminiBackend) • **Impact:** Real-time intelligent conversations
+
+---
+
+### 🔢 **Handwritten Digit Recognition System**
+
+A machine learning masterpiece combining TensorFlow CNNs with an intuitive Tkinter GUI. Real-time digit recognition with 98%+ accuracy, enabling interactive machine learning experiences.
+
+**Stack:** `Python` `TensorFlow` `Keras` `Tkinter` `PIL`  
+🔗 [View Repository](https://github.com/asishadimulapu/HandWrittenDigitRecognition) • **Impact:** Educational & Production-ready ML
 
 ---
 
-### 📊 My GitHub Stats & Activity
+## 📈 Performance Metrics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asishadimulapu&show_icons=true&theme=tokyonight" alt="Asish's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asishadimulapu&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=asishadimulapu&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asishadimulapu&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
-</p>
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asishadimulapu&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=30363d&text_color=c9d1d9&title_color=FF6B00)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asishadimulapu&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=30363d&text_color=c9d1d9&title_color=FF6B00)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=asishadimulapu&theme=tokyonight&background=0d1117&border=30363d&currStreakLabel=FF6B00)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=asishadimulapu&theme=tokyo-night&bg_color=0d1117&color=FF6B00&line=FF6B00&point=FFB000&hide_border=true&area=true&area_color=FF6B00&title_color=FF6B00)
+
+</div>
 
 ---
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=asishadimulapu&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
-</p>
+
+## 🌟 Current Endeavors
+
+| 🎯 Area | 📚 Status |
+|---------|----------|
+| **Cloud Architecture** | 🚀 Mastering AWS for enterprise deployments |
+| **Advanced ML APIs** | 🧠 Exploring sophisticated AI integrations |
+| **Full-Stack Innovation** | ⚡ Building AI-powered end-to-end systems |
+| **Computer Vision** | 👁️ Pushing boundaries in image/video analysis |
+
+---
+
+## 🤝 Let's Connect
+
+I'm always excited to collaborate on:
+- 🤖 AI-powered full-stack applications
+- 👁️ Innovative computer vision solutions
+- 🔗 Distributed systems & scalability challenges
+- 🌐 Open-source contributions
+
+**💡 Ask me about:** MERN architecture | Gemini API integration | CNN design | Image processing | System design
+
+---
+
+<div align="center">
+
+### ✨ *"Code is poetry written for machines. I write both."* ✨
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&color=FF6B00&center=true&vCenter=true&width=600&height=60&lines=Building+the+future+with+AI+and+full-stack+dev;Transforming+ideas+into+scalable+intelligent+systems;Let%27s+create+something+extraordinary+together)](https://git.io/typing-svg)
+
+---
+
+**Last Updated:** 2025 | **Status:** 🟢 Open for Collaborations & Opportunities
+
+</div>
