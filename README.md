@@ -160,7 +160,7 @@ Natural language to SQL engine with intelligent query generation.
 
 *I love connecting with developers and tech enthusiasts!*
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asishadimulapu)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asish-adimulapu)
 [![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hiring@getsethire.com)
 [![Portfolio](https://img.shields.io/badge/Visit_Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://asishadimulapu.tech)
 
