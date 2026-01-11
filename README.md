@@ -120,15 +120,15 @@ class Developer:
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=asishadimulapu&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=asishadimulapu&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9"/>
   &nbsp;&nbsp;&nbsp;
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=asishadimulapu&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakLabel=00ff00"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=asishadimulapu&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakLabel=00ff00"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asishadimulapu&theme=github-compact&hide_border=true&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&area=true&area_color=00ff0020"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asishadimulapu&theme=github_dark"/>
 </div>
 
 ---
