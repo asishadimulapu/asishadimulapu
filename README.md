@@ -7,9 +7,9 @@
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/-Asish_Adimulapu-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asishadimulapu)&nbsp;
-[![GitHub](https://img.shields.io/badge/-AsishAdimulapu-181717?style=flat&logo=github&logoColor=white)](https://github.com/AsishAdimulapu)&nbsp;
+[![GitHub](https://img.shields.io/badge/-asishadimulapu-181717?style=flat&logo=github&logoColor=white)](https://github.com/asishadimulapu)&nbsp;
 [![Email](https://img.shields.io/badge/-Contact_Me-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:hiring@getsethire.com)&nbsp;
-![Views](https://komarev.com/ghpvc/?username=AsishAdimulapu&color=00ff00&style=flat&label=Profile+Views)
+![Views](https://komarev.com/ghpvc/?username=asishadimulapu&color=00ff00&style=flat&label=Profile+Views)
 
 </div>
 
@@ -106,7 +106,7 @@ class Developer:
 <td width="50%">
 <h3 align="center">🔗 More Projects</h3>
 <p align="center">
-  <a href="https://github.com/AsishAdimulapu?tab=repositories">
+  <a href="https://github.com/asishadimulapu?tab=repositories">
     <img src="https://img.shields.io/badge/View_All-Repositories-181717?style=for-the-badge&logo=github"/>
   </a>
 </p>
@@ -120,15 +120,15 @@ class Developer:
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AsishAdimulapu&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=asishadimulapu&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9"/>
   &nbsp;&nbsp;&nbsp;
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=AsishAdimulapu&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakLabel=00ff00"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=asishadimulapu&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakLabel=00ff00"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AsishAdimulapu&theme=github-compact&hide_border=true&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&area=true&area_color=00ff0020"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asishadimulapu&theme=github-compact&hide_border=true&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&area=true&area_color=00ff0020"/>
 </div>
 
 ---
