@@ -128,7 +128,7 @@ class Developer:
 <br>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asishadimulapu&theme=github_dark"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=asishadimulapu&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9"/>
 </div>
 
 ---
