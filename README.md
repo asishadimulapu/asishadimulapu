@@ -170,7 +170,7 @@ Natural language to SQL engine with intelligent query generation.
 
 <div align="center">
 
-**💼 Open to opportunities in AI/ML & Full-Stack Development**
+**Open to opportunities in AI/ML & Full-Stack Development**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
