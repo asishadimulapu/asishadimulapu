@@ -67,17 +67,6 @@ Ask a question in plain English, get the SQL query and the answer. Uses an LLM t
 <tr>
 <td width="50%" valign="top">
 
-### 📚 Bro — AI Study Buddy
-
-Upload your notes, ask questions and get answers with source citations. Study Mode turns notes into MCQs and flashcards.
-
-`Next.js` `RAG` `LLMs`
-
-[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/asishadimulapu/Bro-StudyBuddy)
-
-</td>
-<td width="50%" valign="top">
-
 ### 💬 Gemini Chatbot
 
 Full-stack conversational AI built on the **Gemini API**, with real-time streaming responses.
@@ -89,8 +78,6 @@ Full-stack conversational AI built on the **Gemini API**, with real-time streami
 [![Backend](https://img.shields.io/badge/Backend-181717?style=flat-square&logo=github)](https://github.com/asishadimulapu/ChatBotGeminiBackend)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🏥 Patient Admission System
@@ -103,7 +90,9 @@ App for hospital staff to admit, search, filter, edit and discharge patients, wi
 [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/asishadimulapu/Patient-Admission)
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
 ### ✍️ Handwritten Digit Recognition
 
